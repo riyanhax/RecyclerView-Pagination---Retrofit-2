@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\theReza Android Workplace\Top Rated Movie\Android-Pagination-with-RecyclerView.iml" filepath="E:\theReza Android Workplace\Top Rated Movie\Android-Pagination-with-RecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Top Rated Movie.iml" filepath="$PROJECT_DIR$/Top Rated Movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\theReza Android Workplace\Top Rated Movie\app\app.iml" filepath="E:\theReza Android Workplace\Top Rated Movie\app\app.iml" />
+    </modules>
+  </component>
+</project>
